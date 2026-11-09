@@ -1,0 +1,6 @@
+{
+  "name": "WebEmbed Studio - Website Embedding & Integration Lab",
+  "description": "Interactive developer studio and playground for embedding other websites into your site using iframes, official embed widgets, OpenGraph cards, and reverse proxies.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
